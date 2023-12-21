@@ -1,0 +1,5 @@
+body { background-color: gray; font-family: Verdana;}
+.title {text-align: center; color: darkblue; font-family: Verdana; font-size: 50px;}
+.subtitle {color: darkblue; font-family: Verdana;}
+div {text-align: center;}
+.button {border-color: black; background-color: darkgray;}
